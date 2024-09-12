@@ -6,5 +6,5 @@
 
 This repository contains a notebook with an agentic RAG application using Milvus, Claude and LlamaIndex framework.
 
-The notebook has been developed as part of the following blog publication based on the [Unstructured Data Meetups](https://zilliz.com/community/unstructured-data-meetup) organized by Zilliz. The video of the blog can be found [here](https://www.youtube.com/watch?v=PM52EVwzB2A&t=1915s)
+The notebook has been developed as part of the following [blog](https://zilliz.com/blog/agentic-rag-using-claude-3.5-sonnet-llamaindex-and-milvus) based on the [Unstructured Data Meetups](https://zilliz.com/community/unstructured-data-meetup) organized by Zilliz. The video of the blog can be found [here](https://www.youtube.com/watch?v=PM52EVwzB2A&t=1915s)
 
